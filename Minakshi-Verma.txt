@@ -144,3 +144,20 @@
 
     37. Walk me through Lambda's git flow. 
     fork the repo---clone repo---branching with your name---add,commit---push request---pull request
+
+    STRETCH QUESTIONS
+
+    1. What is the difference between an inline element and a block element?
+     An inline element does not take the whole page width and does not cause a line break while block element takes up the whole width of the page and starts with a new line.
+
+    2. What happens when an element is positioned absolutely? 
+    If an element is positioned absolutely it is taken out of the flow and other elements are position as the absolute element doesn't exist.
+
+    3. How do I make an element take up only the amount of space it needs but also have the ability to give it a width? 
+    Use diplay: inline-block
+
+    4. Name 3 elements that are diplay block by default, 2 elements that are display inline by default and 1 element that is display inline-block by default
+    Block elements: <div>, <h1>, <p> ; Inline element: <img>, <span>; inline-block element: anchor tag<a>
+
+    5. In your own words, explain the box model. What is the fix for the box model? 
+    Box model consist of a box with several layers to it. Inner most box is content, which is surrounded by padding. After padding comes border which is then followed by margin.
