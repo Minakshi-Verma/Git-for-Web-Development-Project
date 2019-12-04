@@ -64,6 +64,7 @@
 
     18. How to we select an element? Example - every h2 on the page
      By selecting the h2 element followed by curly brackets.
+     
      h2{   
      
      }
